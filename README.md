@@ -8,7 +8,27 @@
 
 
 #  About ME 💬 :
-![Card de Josten Huaman](card-presentacion.png)
+![Card de Josten Huaman](card-josten.png)
+
+<img hight="100" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd291N21lYjE4d3UwZ2xyZHdna3oxeTg5azh0eXF0dzc1ZGI4a2NrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMt7JebfoVRCkG4FZd/giphy.gif">
+
+### - Learning: 
+- ✨ Angular and React
+- ✨ TypeScript
+- ✨ Front-End Framework
+- ✨ WordPress
+
+
+### - Hobbies: 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Dota 2/Counter Strike
+
+
+<br>
+<br>
+<br>
+<br>
 
 
 # Contact Me:
@@ -32,5 +52,5 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 </p>
 
-
+# 
 
